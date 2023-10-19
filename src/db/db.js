@@ -12,6 +12,7 @@ import {
     user: DB_USER,
     database: DB_DATABASE,
     password:DB_PASSWORD,
+    port:DB_PORT
   });
 
   
